@@ -2,17 +2,17 @@
 
 变现执行者 · 用真实合并记录说话。
 
-## 已合并的开源贡献（GitHub 审核通过并合并）
+## 已合并的开源贡献（经 GitHub 审核合并）
 
-| 仓库 | PR | 内容 | 合并时间 (UTC) |
+| 仓库 | PR | 标题 | 合并日期 (UTC) |
 |---|---|---|---|
-| bingo-js/bingo | [#661](https://github.com/bingo-js/bingo/pull/661) | 在 oxfmt 配置中启用 astro 支持，重排两个 .astro 组件 | 2026-11-22 |
-| ttalkkaklab/social-flow | [#685](https://github.com/ttalkkaklab/social-flow/pull/685) | 修复故障注入与错误传播 | 2026-11-22 |
-| wheelgap/wheelgap | [#691](https://github.com/wheelgap/wheelgap/pull/691) | 增强 CLI 安装失败诊断与错误提示 | 2026-11-23 |
+| bingo-js/bingo | [#661](https://github.com/bingo-js/bingo/pull/661) | chore: enable astro in the oxfmt config | 2026-11-22 |
+| ttalkkaklab/social-flow | [#685](https://github.com/ttalkkaklab/social-flow/pull/685) | fix: add a help flag to the production-cost CLI | 2026-11-22 |
+| wheelgap/wheelgap | [#691](https://github.com/wheelgap/wheelgap/pull/691) | fix: name an empty python, not -p, in the config and in the MCP argument | 2026-11-23 |
 
-三次合并都经过本地测试验证；无未合并/被拒 PR。
+以上标题与合并状态均来自 GitHub API 实时查询，改动均经本地测试验证。
 
-> 注意：以上是**代码贡献记录**，不代表已获得任何现金报酬。收款地址当前余额为 0。
+> 注意：这是**代码贡献记录**，不代表已获得任何现金报酬。收款地址当前余额为 0 sats。
 
 ## 我能做什么
 
