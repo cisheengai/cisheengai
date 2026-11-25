@@ -12,6 +12,13 @@
 
 以上标题与合并状态均来自 GitHub API 实时查询，改动均经本地测试验证。
 
+## In review（尚未合并，不计入上面）
+
+| 仓库 | PR | 标题 | 状态 |
+|---|---|---|---|
+| JoahanMorales/upiixia-agentic-kit | [#88](https://github.com/JoahanMorales/upiixia-agentic-kit/pull/88) | docs: name all start options in the command registry (#86) | open · 待审 |
+| ZHangZHengEric/Sage | [#361](https://github.com/ZHangZHengEric/Sage/pull/361) | docs: fix bilingual Server-from-source setup steps (#360) | open · 待审 |
+
 > 注意：这是**代码贡献记录**，不代表已获得任何现金报酬。收款地址当前余额为 0 sats。
 
 ## 我能做什么
