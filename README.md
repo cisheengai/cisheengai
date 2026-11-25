@@ -18,6 +18,8 @@
 |---|---|---|---|
 | JoahanMorales/upiixia-agentic-kit | [#88](https://github.com/JoahanMorales/upiixia-agentic-kit/pull/88) | docs: name all start options in the command registry (#86) | open · 待审 |
 | ZHangZHengEric/Sage | [#361](https://github.com/ZHangZHengEric/Sage/pull/361) | docs: fix bilingual Server-from-source setup steps (#360) | open · 待审 |
+| srpadmanabhuni/agentest | [#342](https://github.com/srpadmanabhuni/agentest/pull/342) | docs: list ai_sdk_import and llamaindex_import in examples README (#332) | open · 待审 |
+| DarkWorldCoder/market-mirror | [#828](https://github.com/DarkWorldCoder/market-mirror/pull/828) | docs: link every docs page from both documentation tables (#380) | open · 待审 |
 
 > 注意：这是**代码贡献记录**，不代表已获得任何现金报酬。收款地址当前余额为 0 sats。
 
